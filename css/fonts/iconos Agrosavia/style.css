@@ -1,0 +1,372 @@
+@font-face {
+  font-family: 'agrosavia';
+  src:  url('fonts/agrosavia.eot?oanx7');
+  src:  url('fonts/agrosavia.eot?oanx7#iefix') format('embedded-opentype'),
+    url('fonts/agrosavia.ttf?oanx7') format('truetype'),
+    url('fonts/agrosavia.woff?oanx7') format('woff'),
+    url('fonts/agrosavia.svg?oanx7#agrosavia') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'agrosavia' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-alimentro:before {
+  content: "\e900";
+}
+.icon-Arrow2Dr:before {
+  content: "\e901";
+}
+.icon-Arrow2Iz:before {
+  content: "\e902";
+}
+.icon-ArrowAb:before {
+  content: "\e903";
+}
+.icon-ArrowAr:before {
+  content: "\e904";
+}
+.icon-ArrowDr:before {
+  content: "\e905";
+}
+.icon-ArrowIz:before {
+  content: "\e906";
+}
+.icon-auxiliares:before {
+  content: "\e907";
+}
+.icon-BGermoplasma:before {
+  content: "\e908";
+}
+.icon-Bien:before {
+  content: "\e909";
+}
+.icon-book:before {
+  content: "\e90a";
+}
+.icon-bubble:before {
+  content: "\e90b";
+}
+.icon-bulb:before {
+  content: "\e90c";
+}
+.icon-Caja:before {
+  content: "\e90d";
+}
+.icon-Calendario:before {
+  content: "\e90e";
+}
+.icon-Camara:before {
+  content: "\e90f";
+}
+.icon-Camara2:before {
+  content: "\e910";
+}
+.icon-Candado:before {
+  content: "\e911";
+}
+.icon-Carrito:before {
+  content: "\e912";
+}
+.icon-Casa:before {
+  content: "\e913";
+}
+.icon-Cel:before {
+  content: "\e914";
+}
+.icon-Chat:before {
+  content: "\e915";
+}
+.icon-cloud-sun-snow:before {
+  content: "\e916";
+}
+.icon-Contratacion:before {
+  content: "\e917";
+}
+.icon-Convocatorias:before {
+  content: "\e918";
+}
+.icon-coordinador:before {
+  content: "\e919";
+}
+.icon-datos:before {
+  content: "\e91a";
+}
+.icon-Descargas:before {
+  content: "\e91b";
+}
+.icon-directivos:before {
+  content: "\e91c";
+}
+.icon-display:before {
+  content: "\e91d";
+}
+.icon-Documentos:before {
+  content: "\e91e";
+}
+.icon-Edificio:before {
+  content: "\e91f";
+}
+.icon-enter:before {
+  content: "\e920";
+}
+.icon-Estandarte:before {
+  content: "\e921";
+}
+.icon-etapas:before {
+  content: "\e922";
+}
+.icon-eye:before {
+  content: "\e923";
+}
+.icon-facebook:before {
+  content: "\e924";
+}
+.icon-file-pdf:before {
+  content: "\e925";
+}
+.icon-ganaderiaS:before {
+  content: "\e926";
+}
+.icon-genom:before {
+  content: "\e927";
+}
+.icon-Grupo:before {
+  content: "\e928";
+}
+.icon-handshake:before {
+  content: "\e929";
+}
+.icon-Identificacion:before {
+  content: "\e92a";
+}
+.icon-Indicador:before {
+  content: "\e92b";
+}
+.icon-instagram:before {
+  content: "\e92c";
+}
+.icon-Intranet:before {
+  content: "\e92d";
+}
+.icon-investigador:before {
+  content: "\e92e";
+}
+.icon-lab:before {
+  content: "\e92f";
+}
+.icon-Leche:before {
+  content: "\e930";
+}
+.icon-Libro:before {
+  content: "\e931";
+}
+.icon-LibrosV:before {
+  content: "\e932";
+}
+.icon-linkata:before {
+  content: "\e933";
+}
+.icon-Localizacion:before {
+  content: "\e934";
+}
+.icon-location:before {
+  content: "\e935";
+}
+.icon-lock:before {
+  content: "\e936";
+}
+.icon-Mail:before {
+  content: "\e937";
+}
+.icon-Mail2:before {
+  content: "\e938";
+}
+.icon-Mal:before {
+  content: "\e939";
+}
+.icon-Manuales:before {
+  content: "\e93a";
+}
+.icon-Mapa:before {
+  content: "\e93b";
+}
+.icon-Megafono:before {
+  content: "\e93c";
+}
+.icon-menu:before {
+  content: "\e93d";
+}
+.icon-minus:before {
+  content: "\e93e";
+}
+.icon-Multimedia:before {
+  content: "\e93f";
+}
+.icon-Multimedia1:before {
+  content: "\e940";
+}
+.icon-Multimedia2:before {
+  content: "\e941";
+}
+.icon-Multimedia3:before {
+  content: "\e942";
+}
+.icon-Noticias:before {
+  content: "\e943";
+}
+.icon-NotifActive:before {
+  content: "\e944";
+}
+.icon-Nube:before {
+  content: "\e945";
+}
+.icon-Ojo:before {
+  content: "\e946";
+}
+.icon-paperplane:before {
+  content: "\e947";
+}
+.icon-pause2:before {
+  content: "\e948";
+}
+.icon-pen:before {
+  content: "\e949";
+}
+.icon-Persona:before {
+  content: "\e94a";
+}
+.icon-Personaje:before {
+  content: "\e94b";
+}
+.icon-photo:before {
+  content: "\e94c";
+}
+.icon-play:before {
+  content: "\e94d";
+}
+.icon-play3:before {
+  content: "\e94e";
+}
+.icon-plus:before {
+  content: "\e94f";
+}
+.icon-practicantes:before {
+  content: "\e950";
+}
+.icon-profecionalnv:before {
+  content: "\e951";
+}
+.icon-profesionalAp:before {
+  content: "\e952";
+}
+.icon-redCacao:before {
+  content: "\e953";
+}
+.icon-Redes:before {
+  content: "\e954";
+}
+.icon-redFortalecimiento:before {
+  content: "\e955";
+}
+.icon-redFrutales:before {
+  content: "\e956";
+}
+.icon-redGanaderia:before {
+  content: "\e957";
+}
+.icon-redHortalizas:before {
+  content: "\e958";
+}
+.icon-redPermanentes:before {
+  content: "\e959";
+}
+.icon-redRaicesYtuberculos:before {
+  content: "\e95a";
+}
+.icon-redTransitorios:before {
+  content: "\e95b";
+}
+.icon-Search:before {
+  content: "\e95c";
+}
+.icon-Semillas:before {
+  content: "\e95d";
+}
+.icon-shop:before {
+  content: "\e95e";
+}
+.icon-Sinaltra:before {
+  content: "\e95f";
+  color: #474747;
+}
+.icon-Sistema:before {
+  content: "\e960";
+}
+.icon-SistemasC:before {
+  content: "\e961";
+}
+.icon-star:before {
+  content: "\e962";
+}
+.icon-stop2:before {
+  content: "\e963";
+}
+.icon-tablet:before {
+  content: "\e964";
+}
+.icon-Telefono:before {
+  content: "\e965";
+}
+.icon-tv:before {
+  content: "\e966";
+}
+.icon-twitter:before {
+  content: "\e967";
+}
+.icon-Unete:before {
+  content: "\e968";
+}
+.icon-user:before {
+  content: "\e969";
+}
+.icon-world:before {
+  content: "\e96a";
+}
+.icon-Youtube:before {
+  content: "\e96b";
+}
+.icon-logo-corpoicaV:before {
+  content: "\e96c";
+}
+.icon-logo-corpoicaH:before {
+  content: "\e96d";
+}
+.icon-logo-agrosaviaV:before {
+  content: "\e96e";
+}
+.icon-logo-agrosavia-full:before {
+  content: "\e96f";
+}
+.icon-logo-agrosavia-1:before {
+  content: "\e970";
+}
+.icon-logo-agrosavia-2:before {
+  content: "\e971";
+}
+.icon-Logo-agroExplora:before {
+  content: "\e972";
+}

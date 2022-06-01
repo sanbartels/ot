@@ -1,0 +1,22 @@
+@media screen and (-ms-high-contrast: active),
+(-ms-high-contrast: none) {
+
+    /* Put your IE-only styles here. Works for IS 10 & IE 11*/
+    .row,
+    .parallax section .stuff,
+    .work-content-main {
+        width: 100%
+    }
+
+    .parallax-content {
+        height: 100%;
+    }
+
+    .box-container {
+        align-items: flex-start;
+    }
+
+    .chart .bars li {
+        display: inline-block
+    }
+}
