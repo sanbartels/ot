@@ -27182,30 +27182,63 @@ a.infoImage {
       display: flex;
       align-items: center; }
       .todoagricola .linea-agricola .header .circulo {
+        width: 70px;
+        height: 60px;
         background-color: white;
         display: flex;
         justify-content: center;
         align-items: center;
-        width: 60px;
-        height: 60px;
         border-radius: 50%;
         box-shadow: 0px 10px 28px -10px rgba(0, 0, 0, 0.75); }
-        .todoagricola .linea-agricola .header .circulo .svg {
-          width: 20px;
-          fill: green; }
+        .todoagricola .linea-agricola .header .circulo img {
+          width: 40px;
+          height: 40px; }
       .todoagricola .linea-agricola .header .cuadro {
         z-index: -10;
         margin-left: -20px;
         width: 100%;
-        box-shadow: 0px 10px 28px -10px rgba(0, 0, 0, 0.75); }
+        box-shadow: 0px 10px 28px -10px rgba(0, 0, 0, 0.75);
+        -webkit-border-top-right-radius: 10px;
+        -webkit-border-bottom-right-radius: 10px;
+        -moz-border-radius-topright: 10px;
+        -moz-border-radius-bottomright: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px; }
+        .todoagricola .linea-agricola .header .cuadro.cacao {
+          background-color: #99d019; }
+        .todoagricola .linea-agricola .header .cuadro.frutales {
+          background-color: #fd7472; }
+        .todoagricola .linea-agricola .header .cuadro.ganaderia {
+          background-color: #b69f8f; }
+        .todoagricola .linea-agricola .header .cuadro.permanente {
+          background-color: #2f81cf; }
+        .todoagricola .linea-agricola .header .cuadro.transitorio {
+          background-color: #c75938; }
+        .todoagricola .linea-agricola .header .cuadro.hortalizas {
+          background-color: #47a060; }
+        .todoagricola .linea-agricola .header .cuadro.raices {
+          background-color: #38b4ed; }
+        .todoagricola .linea-agricola .header .cuadro.transversales {
+          background-color: #1B65B0; }
         .todoagricola .linea-agricola .header .cuadro h3 {
-          padding-left: 30px;
+          color: white;
+          padding: 10px 10px 10px 30px;
           font-weight: 800;
-          font-size: 24px; }
+          font-size: 15px; }
     .todoagricola .linea-agricola .body-card {
       display: none; }
+    .todoagricola .linea-agricola.activo .header .circulo {
+      width: 60px;
+      height: 60px; }
     .todoagricola .linea-agricola.activo .header .cuadro {
-      margin-left: -75px; }
+      margin-left: -75px;
+      -webkit-border-top-left-radius: 10px;
+      -webkit-border-top-right-radius: 10px;
+      -moz-border-radius-topleft: 10px;
+      -moz-border-radius-topright: 10px;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+      border-bottom-right-radius: 0px; }
       .todoagricola .linea-agricola.activo .header .cuadro.cacao {
         background-color: #99d019; }
       .todoagricola .linea-agricola.activo .header .cuadro.frutales {
